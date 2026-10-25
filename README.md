@@ -347,40 +347,54 @@ End-to-end management platform concept covering student administration, attendan
 
 ---
 
+
 <!-- ================= CONTRIBUTION ACTIVITY ================= -->
+
+<div align="center">
 
 ## 06 / CONTRIBUTION ACTIVITY
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrivasanth01&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Shrivasanth01&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=MY%20GITHUB%20CONTRIBUTIONS"
+  width="100%"
+  alt="GitHub Contribution Activity Graph"
+/>
 
 <br/>
+
+</div>
 
 ---
 
 <!-- ================= CONNECT ================= -->
+
+<div align="center">
 
 ## 07 / CONNECT
 
 <br/>
 
 <a href="https://github.com/Shrivasanth01">
-
-<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111"/>
-
+  <img
+    src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111"
+    alt="GitHub"
+  />
 </a>
 
-<a href="https://www.linkedin.com/">
-
-<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=111111"/>
-
+<a href="https://www.linkedin.com/in/shrivasanth-j-b080a2364/">
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=111111"
+    alt="LinkedIn"
+  />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=111111"/>
-
+<a href="https://animated-portfolio-six-psi.vercel.app/#home">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=111111"
+    alt="Portfolio"
+  />
 </a>
 
 <br/><br/>
