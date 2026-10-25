@@ -349,16 +349,20 @@ End-to-end management platform concept covering student administration, attendan
 
 
 
+
 <!-- ================= CONNECT ================= -->
 
 <div align="center">
 
-## 06 / CONNECT
+## 07 / CONNECT
 
 <br/>
 
 <a href="https://github.com/Shrivasanth01">
-  
+  <img
+    src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111"
+    alt="GitHub"
+  />
 </a>
 
 <a href="https://www.linkedin.com/in/shrivasanth-j-b080a2364/">
