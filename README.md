@@ -348,6 +348,7 @@ End-to-end management platform concept covering student administration, attendan
 ---
 
 
+
 <!-- ================= CONTRIBUTION ACTIVITY ================= -->
 
 <div align="center">
@@ -357,10 +358,19 @@ End-to-end management platform concept covering student administration, attendan
 <br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Shrivasanth01&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=MY%20GITHUB%20CONTRIBUTIONS"
+  src="https://ghchart.rshah.org/FFFFFF/Shrivasanth01"
+  alt="GitHub Contribution Graph"
   width="100%"
-  alt="GitHub Contribution Activity Graph"
 />
+
+<br/><br/>
+
+<a href="https://github.com/Shrivasanth01">
+  <img
+    src="https://img.shields.io/badge/VIEW_GITHUB_ACTIVITY-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111"
+    alt="View GitHub Activity"
+  />
+</a>
 
 <br/>
 
