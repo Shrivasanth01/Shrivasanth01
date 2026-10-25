@@ -112,13 +112,13 @@ Learn · Build · Improve
 │                                              │
 │  USER       : SHRIVASANTH01                  │
 │                                              │
-│  DOMAIN      : SOFTWARE ENGINEERING           │
+│  DOMAIN      : SOFTWARE ENGINEERING          │
 │                                              │
 │  SPECIALITY  : AI / ML / FULL STACK          │
 │                                              │
 │  MODE        : BUILDING                      │
 │                                              │
-│  OBJECTIVE   : ENGINEER REAL-WORLD SOLUTIONS  │
+│  OBJECTIVE   : ENGINEER REAL-WORLD SOLUTIONS │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
