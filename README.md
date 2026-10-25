@@ -348,41 +348,11 @@ End-to-end management platform concept covering student administration, attendan
 ---
 
 
-
-<!-- ================= CONTRIBUTION ACTIVITY ================= -->
-
-<div align="center">
-
-## 06 / CONTRIBUTION ACTIVITY
-
-<br/>
-
-<img
-  src="https://ghchart.rshah.org/FFFFFF/Shrivasanth01"
-  alt="GitHub Contribution Graph"
-  width="100%"
-/>
-
-<br/><br/>
-
-<a href="https://github.com/Shrivasanth01">
-  <img
-    src="https://img.shields.io/badge/VIEW_GITHUB_ACTIVITY-FFFFFF?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=111111"
-    alt="View GitHub Activity"
-  />
-</a>
-
-<br/>
-
-</div>
-
----
-
 <!-- ================= CONNECT ================= -->
 
 <div align="center">
 
-## 07 / CONNECT
+## 06 / CONNECT
 
 <br/>
 
