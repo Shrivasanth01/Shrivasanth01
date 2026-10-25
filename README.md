@@ -1,67 +1,162 @@
 
-<!--
-=========================================================
-  SHRIVASANTH01 | DEVELOPER PROFILE
-  Theme: Cyberpunk Command Center
-=========================================================
--->
+<!-- =====================================================
+     SHRIVASANTH01 | DEVELOPER INTRO
+     DESIGN: FUTURISTIC TERMINAL
+====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:050816&height=220&section=header&text=SHRIVASANTH&fontSize=55&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%26%20ML%20ENGINEER&descSize=16&descAlignY=60&descColor=A78BFA" width="100%"/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=19&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&height=50&lines=Initializing+Developer+Profile...;Building+Intelligent+Systems;Full+Stack+Development;Machine+Learning+%7C+Software+Engineering;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=15&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=30&lines=%5B+SYSTEM+ONLINE+%5D;%5B+DEVELOPER+PROFILE+INITIALIZED+%5D;%5B+WELCOME+TO+MY+DIGITAL+SPACE+%5D" />
+
+<br/><br/>
+
+# `SHRIVASANTH01`
+
+### SOFTWARE ENGINEER · AI/ML · FULL STACK
+
+<p>
+Building intelligent systems.<br/>
+Engineering real-world solutions.<br/>
+Turning ambitious ideas into working applications.
+</p>
 
 <br/>
 
+<img src="https://img.shields.io/badge/01-SOFTWARE_ENGINEERING-00F7FF?style=flat-square&labelColor=050816"/>
+
+<img src="https://img.shields.io/badge/02-ARTIFICIAL_INTELLIGENCE-A78BFA?style=flat-square&labelColor=050816"/>
+
+<img src="https://img.shields.io/badge/03-MACHINE_LEARNING-00F7FF?style=flat-square&labelColor=050816"/>
+
+<img src="https://img.shields.io/badge/04-FULL_STACK- A78BFA?style=flat-square&labelColor=050816"/>
+
+<br/><br/>
+
 <a href="https://github.com/Shrivasanth01">
-<img src="https://img.shields.io/badge/GITHUB-SHRIVASANTH01-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=050816"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-00F7FF?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=050816"/>
 </a>
 
 <a href="https://github.com/Shrivasanth01?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=050816"/>
-</a>
-
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/shrivasanth-j-b080a2364/)">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00F7FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816"/>
+<img src="https://img.shields.io/badge/PROJECTS-OPEN_ARCHIVE-A78BFA?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=050816"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shrivasanth01&label=PROFILE%20VISITORS&color=00F7FF&style=flat-square" />
-
 </div>
 
 ---
 
 <div align="center">
 
-## `01 // SYSTEM PROFILE`
+### `01 / DEVELOPER IDENTITY`
 
 </div>
 
-```yaml
-USER:
-  name: Shrivasanth
-  username: Shrivasanth01
-  role: Computer Science Engineer
-  focus:
-    - Software Engineering
-    - Artificial Intelligence
-    - Machine Learning
-    - Full Stack Development
+<table>
+<tr>
+<td width="50%">
 
-CURRENT_OBJECTIVE:
-  Build intelligent applications.
-  Engineer real-world solutions.
-  Transform ideas into products.
+**CURRENT ROLE**
 
-STATUS: Always Building
+Computer Science Engineering Student
+
+</td>
+<td width="50%">
+
+**PRIMARY FOCUS**
+
+Software Development & AI
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**BUILDING**
+
+Intelligent Applications
+
+</td>
+<td width="50%">
+
+**MINDSET**
+
+Learn · Build · Improve
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### `MISSION CONTROL`
+
+</div>
+
+```text
+┌─────────────────────────────────────────────────────┐
+│  USER       : SHRIVASANTH01                       │
+│  DOMAIN      : SOFTWARE ENGINEERING                 │
+│  SPECIALITY  : AI / ML / FULL STACK                │
+│  MODE        : BUILDING                            │
+│  OBJECTIVE   : ENGINEER REAL-WORLD SOLUTIONS        │
+└─────────────────────────────────────────────────────┘
 ```
 
+<br/>
+
+<div align="center">
+
+### `02 / FEATURED WORK`
+
+<a href="https://github.com/Shrivasanth01/ResQNet">
+<img src="https://img.shields.io/badge/RESQNET-OFFLINE_EMERGENCY_MESH-00F7FF?style=for-the-badge&labelColor=050816"/>
+</a>
+
+<a href="https://github.com/Shrivasanth01/behavioral-biometric-system">
+<img src="https://img.shields.io/badge/BEHAVIORAL_BIOMETRICS-INTELLIGENT_SECURITY-A78BFA?style=for-the-badge&labelColor=050816"/>
+</a>
+
+<a href="https://github.com/Shrivasanth01?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-ALL_PROJECTS-FFFFFF?style=for-the-badge&labelColor=050816"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `03 / CONNECT`
+
+<a href="https://github.com/Shrivasanth01">
+<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=flat-square&logo=github&logoColor=00F7FF&labelColor=050816"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-A78BFA?style=flat-square&logo=linkedin&logoColor=A78BFA&labelColor=050816"/>
+</a>
+
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=13&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=25&lines=INITIALIZE+IDEA;EXECUTE+CODE;BUILD+SOMETHING+MEANINGFUL" />
+
+</div>
+
+---
+
+<!-- TECHNOLOGY MATRIX STARTS BELOW -->
+
 
 ## `02 // TECHNOLOGY MATRIX`
 
