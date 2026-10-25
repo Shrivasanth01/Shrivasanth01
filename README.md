@@ -363,12 +363,20 @@ End-to-end management platform concept covering student administration, attendan
   />
 </a>
 
+
 <a href="https://www.linkedin.com/in/shrivasanth-j-b080a2364/">
   <img
-    src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=111111"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg"
+    width="16"
+    height="16"
+    alt="LinkedIn"
+  />
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&labelColor=111111"
     alt="LinkedIn"
   />
 </a>
+
 
 <a href="https://animated-portfolio-six-psi.vercel.app/#home">
   <img
