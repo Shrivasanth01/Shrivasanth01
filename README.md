@@ -1,6 +1,6 @@
 
 <!-- =====================================================
-     SHRIVASANTH01 | DEVELOPER PROFILE
+     SHRIVASANTH J | DEVELOPER PROFILE
      THEME: MONOCHROME COMMAND CENTER
      COLORS: BLACK / WHITE / GREY
 ====================================================== -->
